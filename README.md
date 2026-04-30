@@ -1,6 +1,6 @@
 # Tianyi Xu
 
-Master's student in Geospatial Information Engineering at Central South University.
+Master's student at Central South University.
 
 Personal website: <https://eizoed.github.io/>
 
@@ -8,7 +8,7 @@ Personal website: <https://eizoed.github.io/>
 
 - Multimodal urban remote sensing representation
 - Generative urban understanding
-- RAG and agent systems for urban governance
+- RAG and agent systems
 
 ## Selected Links
 
